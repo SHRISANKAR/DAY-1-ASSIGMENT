@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(8, 245, 245);
+    color:rgb(14, 14, 17) ;
+    
+}
+.button{
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+}
